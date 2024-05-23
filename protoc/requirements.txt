@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+pandas
+object-detection
+tensorflow
+protobuf==3.20.0
